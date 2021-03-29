@@ -13,7 +13,7 @@ const App = () => {
             Are you sure you want to do this?
           </div>
         </ApprovalCard>
-
+        
         <ApprovalCard>
           <CommentDetail 
             author="Sam" 
